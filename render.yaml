@@ -10,6 +10,6 @@ services:
       - key: N8N_BASIC_AUTH_USER
         value: "admin"
       - key: N8N_BASIC_AUTH_PASSWORD
-        value: "1234"
+        value: "1061598621"
       - key: N8N_PORT
         value: "5678"
